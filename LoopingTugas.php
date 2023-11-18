@@ -13,6 +13,6 @@ function bilanganprima($num) {
 }
 for ($i = 0; $i <= 50; $i++) {
     if (bilanganprima($i)) {
-        echo "$i. Mantap cuy<br>";
+        echo "$i. StudentDay ProWeb<br>";
     }
 }
